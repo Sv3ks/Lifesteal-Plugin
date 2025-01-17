@@ -1,0 +1,5 @@
+dev/svks/lifestealPlugin/RightClickListener.class
+dev/svks/lifestealPlugin/PlayerJoinListener.class
+dev/svks/lifestealPlugin/LifestealPlugin.class
+dev/svks/lifestealPlugin/WithdrawCommand.class
+dev/svks/lifestealPlugin/PlayerDeathListener.class
